@@ -1,5 +1,6 @@
 # HSDS Explainer
-![image placeholder](https://your-copied-image-address)
+![hsds_standard](https://github.com/pbonnell/hsds_explainer/blob/main/hsds_explainer.png)
+
 ## Mapping to the Human Services Data Standard
 
 This drawing sketches how the [Open Referral HSDS Specification](https://github.com/openreferral/specification) maps to specific existing (real world) models.
